@@ -16,11 +16,12 @@
 </div>
 <h3 align="center">🚀 Skills 🚀</h3>
 <br/>
+<div>
+ [!Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <div align="center">
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=codespes&show_icons=true&theme=tokyonight" width="42%"/>  
-</div>
-<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codespes&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="32%"/>
 </div>
 </div>
