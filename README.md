@@ -16,9 +16,6 @@
 </div>
 <h3 align="center">🚀 Skills 🚀</h3>
 <br/>
-<div>
-<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codespes&layout=compact">
-</div>
 <div align="center">
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=codespes&show_icons=true&theme=tokyonight" width="42%"/>  
