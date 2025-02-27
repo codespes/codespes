@@ -17,7 +17,7 @@
 <h3 align="center">🚀 Skills 🚀</h3>
 <br/>
 <div>
- [!Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codespes&layout=compact">
 </div>
 <div align="center">
 <div>
